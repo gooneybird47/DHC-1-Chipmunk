@@ -3,6 +3,6 @@
 (Work In Progress)
 
 
-![BAF](screenshots/chippy-1.jpg)
-
+![chippy-1](screenshots/chippy-1.jpg)
+![chippy-2](screenshots/chippy-2.jpg)
 

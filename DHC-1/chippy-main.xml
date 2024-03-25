@@ -42,7 +42,7 @@
     <type>spin</type>
     <object-name>propall</object-name>
     <property>velocities/true-airspeed-kt</property>
-    <factor>90</factor>
+    <factor>10</factor>
     <center>
       <x-m> -1.678 </x-m>
       <y-m> 0.00000 </y-m>
@@ -87,8 +87,8 @@
         </axis>
     </animation>
     <!-- ALS Navigation Lights Objects -->
-<!--     <model>
+    <model>
         <path>Lights/Chipmunk-NavLights.xml</path>
-    </model> -->
+    </model>
 
 </PropertyList>
