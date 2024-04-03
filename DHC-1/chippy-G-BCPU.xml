@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<PropertyList include="chippy-main.xml">
+
+ <texture-path>Textures/G-BCPU</texture-path>
+
+</PropertyList>
